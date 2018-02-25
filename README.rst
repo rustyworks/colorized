@@ -7,7 +7,8 @@ Just another stupid decorator
 
 This just a decorator to coloring your output
 By add the decorator to the function, you can get the output colorized
-
+|
+|
 
 **Available Color**
 
@@ -25,7 +26,8 @@ By add the decorator to the function, you can get the output colorized
 |  light_blue
 |  light_purple
 |  light_cyan
-
+|
+|
 
 **Example**
 
