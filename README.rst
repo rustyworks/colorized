@@ -5,8 +5,9 @@ Colorized
 Just another stupid decorator
 -----------------------------
 
-This just a decorator to coloring your output
-By add the decorator to the function, you can get the output colorized
+|  This just a decorator to coloring your output
+
+|  By add the decorator to the function, you can get the output colorized
 |
 |
 
