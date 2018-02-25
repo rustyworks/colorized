@@ -26,6 +26,7 @@ By add the decorator to the function, you can get the output colorized
 |  light_purple
 |  light_cyan
 
+
 **Example**
 
 .. code-block:: python
