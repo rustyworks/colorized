@@ -27,6 +27,7 @@ By add the decorator to the function, you can get the output colorized
 |  light_cyan
 
 **Example**
+
 .. code-block:: python
 
   @colorized(color='light_green')
